@@ -1,6 +1,7 @@
 {
   "name": "tag-to-release",
   "version": "1.0.0",
+  "type": "module",
   "description": "GHA to create GH Release from git tag",
   "main": "src/index.js",
   "author": "Rafael Dohms (https://github.com/rdohms)",
